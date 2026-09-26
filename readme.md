@@ -1,3 +1,10 @@
+# SRT Altium Library V1
+
+Please download from the following link:
+https://drive.google.com/file/d/1UaClluEFgvl3Y480iEcFnPhlo8__sSfv/view?usp=sharing
+
+Install the intlib to your Altium. All design blocks are made using this library.
+
 # Altium Designer Snippets
 
 This repository contains reusable schematic and PCB snippets for Altium Designer. Follow the instructions below to install or update these snippets on your local machine.
