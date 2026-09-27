@@ -1,9 +1,9 @@
 # SRT Altium Library V1
 
-Please download from the following link:
-https://drive.google.com/file/d/1UaClluEFgvl3Y480iEcFnPhlo8__sSfv/view?usp=sharing
+Please download `test_solar_lib.intlib` from the following folder:
+[https://drive.google.com/file/d/1UaClluEFgvl3Y480iEcFnPhlo8__sSfv/view?usp=sharing](https://drive.google.com/drive/folders/15iXzZmwW9jrID4Y5XLm886tc6TvLSeGV?usp=sharing)
 
-Install the intlib to your Altium. All design blocks are made using this library.
+Drag the intlib over your Altium window and `Install` to your Altium. All design blocks are made using this library.
 
 # Altium Designer Snippets
 
